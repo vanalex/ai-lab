@@ -17,4 +17,5 @@ dependencies = [
     "sentencepiece>=0.2.1",
     "text-generation>=0.7.0",
     "transformers>=4.55.0",
+    "unstructured[pdf]>=0.18.11",
 ]
