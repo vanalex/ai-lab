@@ -1,0 +1,12 @@
+[project]
+name = "ai-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pdf2image>=1.17.0",
+    "unstructured>=0.17.2",
+    "unstructured-inference>=1.0.2",
+    "unstructured-pytesseract>=0.3.15",
+]
